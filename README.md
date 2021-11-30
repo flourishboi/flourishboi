@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @flourishboi
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning python for Data analytics 
+- 💞️ I’m looking to collaborate on any projects and businessess related to Data science
+- 📫 How to reach me on linkedin https://www.linkedin.com/in/alaje-olalekan-aiyenomuro-673a98177/
